@@ -1,0 +1,18 @@
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\bin\Debug\Projekti ne klase.exe.config
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti ne klase.exe
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti ne klase.pdb
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\bin\Debug\Projekti ne klase.exe
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\bin\Debug\Projekti ne klase.pdb
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti_ne_klase.Form1.resources
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti_ne_klase.Properties.Resources.resources
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Solution to ASP.csproj.GenerateResource.Cache
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Solution to ASP.csprojResolveAssemblyReference.cache
+D:\Konferencat dhe revistat\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\bin\Debug\Projekti ne klase.exe.config
+D:\Konferencat dhe revistat\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti ne klase.exe
+D:\Konferencat dhe revistat\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti ne klase.pdb
+D:\Konferencat dhe revistat\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\bin\Debug\Projekti ne klase.exe
+D:\Konferencat dhe revistat\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\bin\Debug\Projekti ne klase.pdb
+D:\Konferencat dhe revistat\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti_ne_klase.Form1.resources
+D:\Konferencat dhe revistat\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti_ne_klase.Properties.Resources.resources
+D:\Konferencat dhe revistat\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Solution to ASP.csproj.GenerateResource.Cache
+D:\Konferencat dhe revistat\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Solution to ASP.csprojResolveAssemblyReference.cache

@@ -1,0 +1,35 @@
+D:\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\bin\Debug\Projekti ne klase.exe.config
+D:\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\bin\Debug\Projekti ne klase.exe
+D:\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\bin\Debug\Projekti ne klase.pdb
+D:\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti_ne_klase.Form1.resources
+D:\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti_ne_klase.Properties.Resources.resources
+D:\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti ne klase.csproj.GenerateResource.Cache
+D:\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti ne klase.exe
+D:\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti ne klase.pdb
+C:\Users\behar.haziri\Desktop\Projekti ne klase\Projekti ne klase\bin\Debug\Projekti ne klase.exe.config
+C:\Users\behar.haziri\Desktop\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti ne klase.exe
+C:\Users\behar.haziri\Desktop\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti ne klase.pdb
+C:\Users\behar.haziri\Desktop\Projekti ne klase\Projekti ne klase\bin\Debug\Projekti ne klase.exe
+C:\Users\behar.haziri\Desktop\Projekti ne klase\Projekti ne klase\bin\Debug\Projekti ne klase.pdb
+C:\Users\behar.haziri\Desktop\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti_ne_klase.Form1.resources
+C:\Users\behar.haziri\Desktop\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti_ne_klase.Properties.Resources.resources
+C:\Users\behar.haziri\Desktop\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti ne klase.csproj.GenerateResource.Cache
+C:\Users\behar.haziri\Desktop\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti ne klase.csprojResolveAssemblyReference.cache
+D:\FIEK\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\bin\Debug\Projekti ne klase.exe.config
+D:\FIEK\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti ne klase.exe
+D:\FIEK\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti ne klase.pdb
+D:\FIEK\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti ne klase.csprojResolveAssemblyReference.cache
+D:\FIEK\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti_ne_klase.Form1.resources
+D:\FIEK\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti_ne_klase.Properties.Resources.resources
+D:\FIEK\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\obj\Debug\Projekti ne klase.csproj.GenerateResource.Cache
+D:\FIEK\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\bin\Debug\Projekti ne klase.exe
+D:\FIEK\Master\Analiza e Algoritmeve\2014-2015\Problemet\Aircraft Sequencing Problem\Projekti ne klase\Projekti ne klase\bin\Debug\Projekti ne klase.pdb
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\bin\Debug\Projekti ne klase.exe.config
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti ne klase.exe
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti ne klase.pdb
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\bin\Debug\Projekti ne klase.exe
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\bin\Debug\Projekti ne klase.pdb
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti ne klase.csprojResolveAssemblyReference.cache
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti_ne_klase.Form1.resources
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti_ne_klase.Properties.Resources.resources
+D:\Konferencat dhe Revistat\2015\Aircraft Sequencing Problem\Aircraft Sequencing Problem - Project\Projekti ne klase\obj\Debug\Projekti ne klase.csproj.GenerateResource.Cache

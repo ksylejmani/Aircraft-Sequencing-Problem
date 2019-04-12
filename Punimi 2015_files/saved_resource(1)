@@ -1,0 +1,20 @@
+
+var nm_mt_rand = '2119042384';
+var nm_tag_uri = 'https://';
+var nm_query_str = 'aid=3808&siclientid=';
+
+
+if (document.getElementById && document.createElement && document.body) {
+  var i=document.createElement('IFRAME');
+  var axel = Math.random() + '';        
+  var a = axel * 10000000000000; 
+  i.src='//4727608.fls.doubleclick.net/activityi;src=4727608;type=invmedia;cat=7ltetgda;ord=' + a + '?';
+  i.width=1;
+  i.height=1;
+  i.frameBorder=0;
+  document.body.appendChild(i);
+}
+
+
+
+ 
